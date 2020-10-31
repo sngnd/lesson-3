@@ -132,6 +132,7 @@
 
 .pricing_card {
     width: 25%;
+    /* padding-right: 40px; */
     display: inline-block;
 }
 
@@ -200,7 +201,12 @@
 }
 
 .pricing_card>ul {
+    padding: 0;
     list-style-type: none;
+}
+
+.m-rl-40 {
+    margin: 0 40px;
 }
 
 .pricing_card>ul>li:nth-last-child(1n + 7) {
