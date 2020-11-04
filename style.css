@@ -151,6 +151,7 @@ input:focus {
     background-color: white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .socials__description {
@@ -162,7 +163,6 @@ input:focus {
     font-style: normal;
     font-size: 20px;
     line-height: 23px;
-    margin-top: 18px;
     margin-bottom: 6px;
 }
 
